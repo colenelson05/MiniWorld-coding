@@ -6,10 +6,10 @@ from ..miniworld import MiniWorldEnv, Room
 from ..entity import ImageFrame, Box, MeshEnt, Ball, Key #acts as all needed objects.
 
 class FourRooms(MiniWorldEnv):
-    """
+  
     Classic four rooms environment.
     The agent must reach the any object to get a reward
-    """
+   
 
     def __init__(self, **kwargs):
         super().__init__(
