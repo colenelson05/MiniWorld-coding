@@ -3,12 +3,12 @@ import numpy as np
 import math
 from gym import spaces
 from ..miniworld import MiniWorldEnv, Room
-from ..entity import ImageFrame, Box, MeshEnt, Ball, Key
+from ..entity import ImageFrame, Box, MeshEnt, Ball, Key #acts as all needed objects.
 
 class FourRooms(MiniWorldEnv):
     """
     Classic four rooms environment.
-    The agent must reach the red box to get a reward.
+    The agent must reach the any object to get a reward
     """
 
     def __init__(self, **kwargs):
@@ -49,7 +49,7 @@ class FourRooms(MiniWorldEnv):
         self.connect_rooms(room3, room0, min_x=-5, max_x=-3, max_y=2.2)
 
         self.box = self.place_entity( MeshEnt(
-              mesh_name='duckie',
+              mesh_name='duckie', #creates the duckie object
               height=.5)
                 )
        
@@ -86,7 +86,7 @@ class FourRooms(MiniWorldEnv):
 
         if self.near(self.box):
             reward += self._reward()
-            done = True
+            done = True # one problem is that only the purple box works, this might be because of the order of code or indents. More research is needed. 
            
      
            
