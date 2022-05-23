@@ -1,0 +1,649 @@
+
+use_synth :piano
+#1
+
+
+play :B3
+sleep 0.1
+
+play :F4
+sleep 0.1
+play :D5
+sleep 0.1
+play :F4
+sleep 0.1
+
+play :A3
+sleep 0.1
+
+play :F4
+sleep 0.1
+play :C5
+sleep 0.1
+play :F4
+sleep 0.1
+
+play :B3
+sleep 0.1
+
+play :F4
+sleep 0.1
+play :D5
+sleep 0.1
+play :F4
+sleep 0.1
+
+play :F3
+sleep 0.1
+
+play :A4
+sleep 0.1
+play :F5
+sleep 0.1
+play :A4
+sleep 0.1
+
+play :G3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :F3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :A4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :G3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :D3
+sleep 0.1
+
+play :F4
+sleep 0.1
+play :D5
+sleep 0.1
+play :F4
+sleep 0.1
+
+play :Eb3
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :G4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :D3
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :F4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :Eb3
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :G4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :Bb2
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :D4
+sleep 0.1
+
+#2
+
+play :C3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :Eb4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :Bb2
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :G4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :A2
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :F4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :F2
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :Eb4
+sleep 0.1
+play :A3
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :F4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :D4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :D3
+sleep 0.1
+play :F3
+sleep 0.1
+play :Bb3
+sleep 0.1
+play :F3
+sleep 0.1
+play :Bb2
+sleep 0.1
+play :D3
+sleep 0.1
+play :F3
+sleep 0.1
+play :D3
+sleep 0.1
+play :G2
+sleep 0.1
+play :D3
+sleep 0.1
+play :E3
+sleep 0.1
+play :Fs3
+sleep 0.1
+play :G3
+sleep 0.1
+play :A3
+sleep 0.1
+play :Bb3
+sleep 0.1
+play :C4
+sleep 0.1
+play :Bb3
+sleep 0.1
+play :G3
+sleep 0.1
+play :A3
+sleep 0.1
+play :Bb3
+sleep 0.1
+play :C4
+sleep 0.1
+play :D4
+sleep 0.1
+play :E4
+sleep 0.1
+play :F4
+sleep 0.1
+
+#3
+
+play :C4
+sleep 0.1
+
+play :Eb4
+sleep 0.1
+play :G4
+sleep 0.1
+play :Eb4
+sleep 0.1
+
+play :G3
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :Eb4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :E3
+sleep 0.1
+
+play :E3
+sleep 0.1
+play :C4
+sleep 0.1
+play :E3
+sleep 0.1
+
+play :C3
+sleep 0.1
+play :E3
+sleep 0.1
+play :F3
+sleep 0.1
+play :G3
+sleep 0.1
+play :A3
+sleep 0.1
+play :B3
+sleep 0.1
+play :C4
+sleep 0.1
+play :D4
+sleep 0.1
+play :C4
+sleep 0.1
+play :A3
+sleep 0.1
+play :B3
+sleep 0.1
+play :C4
+sleep 0.1
+play :D4
+sleep 0.1
+play :E4
+sleep 0.1
+play :F4
+sleep 0.1
+play :G4
+sleep 0.1
+
+play :D4
+sleep 0.1
+
+play :F4
+sleep 0.1
+play :A4
+sleep 0.1
+play :F4
+sleep 0.1
+
+play :A3
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :F4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :F3
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :D4
+sleep 0.1
+play :A3
+sleep 0.1
+
+play :D3
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :A3
+sleep 0.1
+play :F3
+sleep 0.1
+
+#4
+
+play :Bb2
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :D4
+sleep 0.1
+play :F3
+sleep 0.1
+
+play :G2
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :Bb3
+sleep 0.1
+play :F3
+sleep 0.1
+
+play :A2
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :C4
+sleep 0.1
+play :F3
+sleep 0.1
+
+play :F2
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :Eb4
+sleep 0.1
+play :F3
+sleep 0.1
+
+play :Bb2
+sleep 0.1
+
+play :F3
+sleep 0.1
+play :D4
+sleep 0.1
+play :F3
+sleep 0.1
+
+play :B2
+sleep 0.1
+
+play :G3
+sleep 0.1
+play :F4
+sleep 0.1
+play :G3
+sleep 0.1
+
+play :C3
+sleep 0.1
+
+play :G3
+sleep 0.1
+play :E4
+sleep 0.1
+play :G3
+sleep 0.1
+
+play :Cs2
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :G4
+sleep 0.1
+play :A3
+sleep 0.1
+
+#5
+
+play :D3
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :F4
+sleep 0.1
+play :A3
+sleep 0.1
+
+play :D2
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :A4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :E2
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :G4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :E3
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :F3
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :A4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :F2
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :C5
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :G2
+sleep 0.1
+
+play :D4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :D4
+sleep 0.1
+
+play :G3
+sleep 0.1
+
+play :E4
+sleep 0.1
+play :D5
+sleep 0.1
+play :E4
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :C4
+sleep 0.1
+play :D4
+sleep 0.1
+play :E4
+sleep 0.1
+play :F4
+sleep 0.1
+play :G4
+sleep 0.1
+play :A4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :C5
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :A4
+sleep 0.1
+play :G4
+sleep 0.1
+play :F4
+sleep 0.1
+play :Eb4
+sleep 0.1
+play :D4
+sleep 0.1
+play :C4
+sleep 0.1
+
+#6
+
+
+play :D4
+sleep 0.1
+play :B3
+sleep 0.1
+play :A3
+sleep 0.1
+play :G3
+sleep 0.1
+play :F3
+sleep 0.1
+play :Eb3
+sleep 0.1
+play :D3
+sleep 0.1
+play :C3
+sleep 0.1
+play :Bb2
+sleep 0.1
+play :C3
+sleep 0.1
+play :D3
+sleep 0.1
+play :C3
+sleep 0.1
+play :Bb2
+sleep 0.1
+play :A2
+sleep 0.1
+play :G2
+sleep 0.1
+play :F2
+sleep 0.1
+
+play :E2
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :Bb4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :F2
+sleep 0.1
+
+play :C4
+sleep 0.1
+play :A4
+sleep 0.1
+play :C4
+sleep 0.1
+
+play :D2
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :A4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :E2
+sleep 0.1
+
+play :Bb3
+sleep 0.1
+play :G4
+sleep 0.1
+play :Bb3
+sleep 0.1
+
+play :F2
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :G4
+sleep 0.1
+play :A3
+sleep 0.1
+
+play :A2
+sleep 0.1
+
+play :A3
+sleep 0.1
+play :F4
+sleep 0.1
+play :A3
+sleep 0.1
+
+play :Bb2
+sleep 0.1
+
+play :G3
+sleep 0.1
+play :F4
+sleep 0.1
+play :G3
+sleep 0.1
+
+play :C3
+sleep 0.1
+
+play :G3
+sleep 0.1
+play :E4
+sleep 0.1
+play :G3
